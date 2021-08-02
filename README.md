@@ -7,7 +7,7 @@
 
 ### Team information
 Task Completed👇
- * 3 person completed
+ * 4 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [ ] 3. Lakshini - R

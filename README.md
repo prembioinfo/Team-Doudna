@@ -19,6 +19,8 @@ Task Completed👇
 - [ ] Shabnam - Python
 - [ ] Anjali - Python
 - [ ] Vivian - Perl
+- [ ] Jovel - Python
+- [ ] Devika- C++
 
 (Will be updated soon once we get full info about team members)
 

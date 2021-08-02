@@ -7,8 +7,13 @@
 
 ### Team information
 Task Completed👇
-- [ ] Isha *Team leader*
-- [ ] Premnath
+- [ ] Isha *Team leader* - Python
+- [x] Premnath - Python
+- [ ] Lakshini - R
+- [ ] Morali - Python
+- [ ] Adedoyin - Python
+- [ ] Shalini - C++
+- [ ] Akanksha - C++
 
 (Will be updated soon once we get full info about team members)
 

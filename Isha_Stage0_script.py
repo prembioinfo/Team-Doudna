@@ -40,7 +40,7 @@ print (slackname)
 # In[7]:
 
 
-biostack = "Drug Designing"
+biostack = "Drug Development"
 
 
 # In[8]:
@@ -52,7 +52,7 @@ print (biostack)
 # In[10]:
 
 
-List = [ "NAME = Isha Barve", "EMAIL = isha.barve0@gmail.com" , "SLACK USERNAME = @Isha" , "BIOSTACK = Drug Designing"]
+List = [ "NAME = Isha Barve", "EMAIL = isha.barve0@gmail.com" , "SLACK USERNAME = @Isha" , "BIOSTACK = Drug Development"]
 print (*List, sep = "\n")
 
 

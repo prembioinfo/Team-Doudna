@@ -8,19 +8,19 @@
 ### Team information
 Task Completed👇
  * 1 person completed
-- [ ] Isha *Team leader* - Python
-- [x] Premnath - Python
-- [ ] Lakshini - R
-- [ ] Morali - Python
-- [ ] Adedoyin - Python
-- [ ] Shalini - C++
-- [ ] Akanksha - C++
-- [ ] Kartik - R
-- [ ] Shabnam - Python
-- [ ] Anjali - Python
-- [ ] Vivian - Perl
-- [ ] Jovel - Python
-- [ ] Devika- C++
+- [ ] 1. Isha *Team leader* - Python
+- [x] 2. Premnath - Python
+- [ ] 3. Lakshini - R
+- [ ] 4. Morali - Python
+- [ ] 5. Adedoyin - Python
+- [ ] 6. Shalini - C++
+- [ ] 7. Akanksha - C++
+- [ ] 8. Kartik - R
+- [ ] 9. Shabnam - Python
+- [ ] 10. Anjali - Python
+- [ ] 11. Vivian - Perl
+- [ ] 12. Jovel - Python
+- [ ] 13. Devika- C++
 
 (Will be updated soon once we get full info about team members)
 

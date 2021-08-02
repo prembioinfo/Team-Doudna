@@ -15,6 +15,10 @@ Task Completed👇
 - [ ] Adedoyin - Python
 - [ ] Shalini - C++
 - [ ] Akanksha - C++
+- [ ] Kartik - R
+- [ ] Shabnam - Python
+- [ ] Anjali - Python
+- [ ] Vivian - Perl
 
 (Will be updated soon once we get full info about team members)
 

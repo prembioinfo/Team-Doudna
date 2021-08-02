@@ -59,4 +59,7 @@ BIOSTACK: *Name of biostack you chose. The only first letter is capital*
 ***After you get the desired output, please name your file yourname_stage_0_script.py/R/sh etc;
 An example: Premnath_stage0_script.py***
 
+# Workflow
+![alt text](https://github.com/prembioinfo/Team-Doudna/blob/main/Instructions.png)
+
 If you guys have any doubts, drop your queries in our group channel!😁

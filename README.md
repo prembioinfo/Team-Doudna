@@ -17,7 +17,7 @@ Task Completed👇
 - [ ] 7. Akanksha - C++
 - [ ] 8. Kartik - R
 - [ ] 9. Shabnam - Python
-- [ ] 10. Anjali - Python
+- [x] 10. Anjali - Python
 - [ ] 11. Vivian - Perl
 - [ ] 12. Jovel - Python
 - [ ] 13. Devika- JAVA

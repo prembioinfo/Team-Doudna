@@ -26,7 +26,8 @@ Task Status👇
 - [ ] 16. Azeszat- JAVA
 - [ ] 17. Fadekemi - R
 - [ ] 18. Adedamola - R
-- [ ] 19. Neemah - R
+- [ ] 19. Neemah - Python
+- [ ] 20. Blessing - Python
 
 (Will be updated soon once we get full info about team members)
 

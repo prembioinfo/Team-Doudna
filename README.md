@@ -7,7 +7,7 @@
 
 ### Team information
 Task Completed👇
- * 5 persons completed
+ * 6 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [ ] 3. Lakshini - R
@@ -16,7 +16,7 @@ Task Completed👇
 - [x] 6. Shalini - C++
 - [ ] 7. Akanksha - C++
 - [ ] 8. Kartik - R
-- [x] 9. Shabnam - Python
+- [x] 9. Shabnam - Ruby
 - [x] 10. Anjali - Python
 - [ ] 11. Vivian - Perl
 - [ ] 12. Jovel - Python

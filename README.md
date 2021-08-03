@@ -6,7 +6,7 @@
 + Have at least a peer-reviewed article to show for the internship experience.
 
 ### Team information
-Task Completed👇
+Task Status👇
  * 9 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python

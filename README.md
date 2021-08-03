@@ -45,6 +45,7 @@ Task Completed👇
     * Go
     * R
     * C++
+    * Perl
     * Any other that you know (please inform us on our channel)
 
 + Create your own repository on Github. You will use it to first upload your script to Github
@@ -65,6 +66,6 @@ BIOSTACK: *Name of biostack you chose. The only first letter is capital*
 An example: Premnath_stage0_script.py***
 
 # Workflow
-![alt text](https://github.com/prembioinfo/Team-Doudna/blob/main/Instructions.png)
+![alt text](https://github.com/Shab-ss/Team-Doudna/blob/main/WORKFLOW.PNG)
 
 If you guys have any doubts, drop your queries in our group channel!😁

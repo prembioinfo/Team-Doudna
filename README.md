@@ -20,12 +20,13 @@ Task Completed👇
 - [x] 10. Anjali - Python
 - [ ] 11. Vivian - Perl
 - [ ] 12. Jovel - Python
-- [ ] 13. Devika- JAVA
+- [x] 13. Devika- JAVA
 - [ ] 14. Fatima - Python
 - [ ] 15.  Xiao- JAVA
 - [ ] 16. Azeszat- JAVA
 - [ ] 17. Fadekemi - R
 - [ ] 18. Adedamola - R
+- [ ] 19. Neemah - R
 
 (Will be updated soon once we get full info about team members)
 

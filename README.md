@@ -28,7 +28,7 @@ Task Status👇
 - [ ] 18. Adedamola - R
 - [ ] 19. Neemah - Python
 - [ ] 20. Blessing - Python
-
+      21. Darmolarr - R
 (Will be updated soon once we get full info about team members)
 
 ## Objective (For team members)

@@ -16,11 +16,16 @@ Task Completed👇
 - [x] 6. Shalini - C++
 - [ ] 7. Akanksha - C++
 - [ ] 8. Kartik - R
-- [ ] 9. Shabnam - Python
+- [x] 9. Shabnam - Python
 - [x] 10. Anjali - Python
 - [ ] 11. Vivian - Perl
 - [ ] 12. Jovel - Python
 - [ ] 13. Devika- JAVA
+- [ ] 14. Fatima - Python
+- [ ] 15.  Xiao- JAVA
+- [ ] 16. Azeszat- JAVA
+- [ ] 17. Fadekemi - R
+- [ ] 18. Adedamola - R
 
 (Will be updated soon once we get full info about team members)
 

@@ -7,7 +7,7 @@
 
 ### Team information
 Task Status👇
- * 10 persons completed
+ * 12 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [x] 3. Lakshini - R
@@ -24,11 +24,11 @@ Task Status👇
 - [ ] 14. Fatima - Python
 - [ ] 15.  Xiao- JAVA
 - [ ] 16. Azeszat- JAVA
-- [ ] 17. Fadekemi - Python
+- [x] 17. Fadekemi - Python
 - [ ] 18. Adedamola - R
 - [ ] 19. Neemah - Python
 - [ ] 20. Blessing - Python
-- [ ] 21. Darmolarr- R
+- [x] 21. Darmolarr- R
 
 (Will be updated soon once we get full info about team members)
 

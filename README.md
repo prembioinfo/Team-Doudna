@@ -47,14 +47,13 @@ Task Status👇
 
 +  Individuals should write a script (using any language) that prints your name, your email, your slack username (with @) and your biostack  
   * Note that we have to have at least 7 different languages. IMPORTANT: Inform the version of the program. Follow below to find yours:
-    * Python 
-    * Javascript 
-    * Ruby
-    * PHP
-    * Go
-    * R
-    * C++
-    * Perl
+    * [x] Python 
+    * [x] Java
+    * [x] Ruby
+    * [x] C
+    * [x] R
+    * [x] C++
+    * [x] Perl
     * Any other that you know (please inform us on our channel)
 
 + Create your own repository on Github. You will use it to first upload your script to Github

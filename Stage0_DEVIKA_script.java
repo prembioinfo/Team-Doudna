@@ -1,5 +1,5 @@
 import java.util.*;
-public class Stage0_DEVIKA_script
+public class Azeezat_stage0_script
 {
          static int hammingDist(String SU, String TH)
 {
@@ -15,16 +15,16 @@ public class Stage0_DEVIKA_script
  
 public static void main (String[] args)
 {
-    String SU = "@Devika";
-    String TH = "@Devpoo";
+    String SU = "@azeezat";
+    String TH = "@azeezat02";
  
     
     System.out.println("HammingDist:"+ hammingDist (SU, TH));
-    System.out.println("Name = Devika Kaliana");
-    System.out.println("Email = devikakaliana94@gmail.com");
-    System.out.println("slack username = @Devika");
-    System.out.println("Biostack = Gemonics");
-    System.out.println("Twitter Handel = @Devpoo");
+    System.out.println("Name = Osikoya Azeezat");
+    System.out.println("Email = oluwatobiosikoya1gmail.com");
+    System.out.println("slack username = @azeezat");
+    System.out.println("Biostack = Drug Development");
+    System.out.println("Twitter Handle = @azeezat");
 }
 }
            

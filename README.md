@@ -24,10 +24,11 @@ Task Status👇
 - [ ] 14. Fatima - Python
 - [ ] 15.  Xiao- JAVA
 - [ ] 16. Azeszat- JAVA
-- [ ] 17. Fadekemi - R
+- [ ] 17. Fadekemi - Python
 - [ ] 18. Adedamola - R
 - [ ] 19. Neemah - Python
 - [ ] 20. Blessing - Python
+- [ ] 21. Darmolarr- R
 
 (Will be updated soon once we get full info about team members)
 
@@ -54,6 +55,8 @@ Task Status👇
     * [x] R
     * [x] C++
     * [x] Perl
+    * [X] GO
+    * [X] PHP
     * Any other that you know (please inform us on our channel)
 
 + Create your own repository on Github. You will use it to first upload your script to Github

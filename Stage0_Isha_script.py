@@ -5,7 +5,7 @@ NAME = "Isha Barve"
 EMAIL = "isha.barve0@gmail.com"
 SLACKID = "@Isha"
 BIOSTACK = "Drug Development"
-TWITTER = "@isba"
+TWITTER = "@Isba"
 
 def Hamming_distance(str1, str2):
     i = 0

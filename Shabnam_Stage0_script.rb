@@ -10,14 +10,10 @@ def hamming(string1,string2)
      str1=string1.downcase.split('')
      str2=string2.downcase.split('')
      hamming_count=0
-
-    str1.each_index do |i| 
+     str1.each_index do |i| 
         hamming_count +=1 if str1.values_at(i)!=str2.values_at(i)
     end
     hamming_count
-
 end
-
 a=hamming("#{Slack_username}","#{Twitter_username}")
 puts "Hamming Distance = #{a}"
-#Program_using_ruby

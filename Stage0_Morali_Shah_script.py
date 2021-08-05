@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[7]:
 
 
-List = ["Name = Morali Shah",
-        "email = shahmorali@gmail.com",
-        "slackname = @morali",
-        "biostack = Drug Development"]
-print (*List, sep = "\n")
+Name = "Morali Shah",
+email = "shahmorali@gmail.com",
+slackname = "@morali",
+biostack = "Drug Development",
+twitter = "@monica"
 
 
-# In[ ]:
+# In[8]:
 
 
 def hammingDist(str1, str2):
@@ -23,13 +23,16 @@ def hammingDist(str1, str2):
             count += 1
         i += 1
     return count
-str1 = "Monica"
-str2 = "morali"
+str1 = slackname
+str2 = twitter
 
 print(hammingDist(str1, str2))
 
 
-print(f"{List}, {hammingDist(str1, str2)}")
+# In[9]:
+
+
+print(f"{Name}, {email}, {slackname}, {biostack}, {twitter}, {hammingDist(str1, str2)}")
 
 
 # In[ ]:

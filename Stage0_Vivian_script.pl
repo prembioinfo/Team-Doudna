@@ -18,12 +18,7 @@ sub hd {
 my $hamming_distance = hd($slack,$twitter);
 
 my $info = <<"END";
-Name: $name
-Email ID: $email
-Slack Username: $slack
-Biostack: $biostack
-Twitter: \@$twitter
-Hamming Distance: $hamming_distance
+$name, $email, \@$slack, $biostack, \@$twitter, $hamming_distance
 END
 
 print $info

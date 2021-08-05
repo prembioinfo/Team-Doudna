@@ -38,6 +38,6 @@ hamming <- HD(varg,varh)
 
 varl<- c(vara,varb,varc,vard,vare,hamming)
 
-cat(paste(varl, collapse = ','))
+cat(paste(varl, collapse = ', '))
 
 

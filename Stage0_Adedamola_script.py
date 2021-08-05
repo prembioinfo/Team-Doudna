@@ -3,7 +3,9 @@ name: str = "Akintokun Adedamola"
 email: str = "olaakintokun@gmail.com"
 slack_username: str = "@Adedamola"
 biostack = "Drug Development"
+
 twitter_handle = "@Durosopee"
+
 def hammingDist(str1, str2):
     i = 0
     count = 0

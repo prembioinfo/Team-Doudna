@@ -18,6 +18,6 @@ func main() {
         slack="@Shalini"
         biostack="Data analysts and vaccine informatics"
         twitter="@Shashaa")
-    fmt.Println("Name: ",name,"\nEmai: ",email,"\nSlack Id: ",slack,"\nBiostack: ",biostack,"\nTwitter Handle: ",twitter)
-    fmt.Println("Hamming Distance: ",hamdist(slack,twitter))
+    fmt.Println("\n",name,"\n",email,"\n",slack,"\n",biostack,"\n",twitter)
+    fmt.Println(hamdist(slack,twitter))
 }

@@ -16,30 +16,8 @@ Colaboratory, or "Colab" for short, allows you to write and execute Python in yo
 - Easy sharing
 
 Whether you're a **student**, a **data scientist** or an **AI researcher**, Colab can make your work easier. Watch [Introduction to Colab](https://www.youtube.com/watch?v=inN8seMm7UI) to learn more, or just get started below!
-"""
 
-NAME = "Adedoyin Akinsemoyin"
-EMAIL = "akinsemoyinadedoyin@gmail.com"
-SLACKID = "@Adedoyin"
-BIOSTACK = "Genomics"
-TWITTER = "@Iyadvnni"
-
-def Hamming_distance(str1, str2):
-    i = 0
-    count = 0
-
-    while (i < len(str1)):
-        if (str1[i] != str2[i]):
-            count += 1
-        i += 1
-    return count
-
-str1 = SLACKID
-str2 = TWITTER
-
-print(f"NAME:- {NAME}\nEMAIL-ID:- {EMAIL}\nSLACK ID:- {SLACKID}\nBIOSTACK:- {BIOSTACK}\nTWITTER HANDLE:- {TWITTER}\nHAMMING DISTANCE:- {Hamming_distance(str1, str2)}")
-
-"""## **Getting started**
+## **Getting started**
 
 The document you are reading is not a static web page, but an interactive environment called a **Colab notebook** that lets you write and execute code.
 
@@ -135,3 +113,26 @@ A few featured examples:
 - [Multilingual Universal Sentence Encoder Q&A](https://tensorflow.org/hub/tutorials/retrieval_with_tf_hub_universal_encoder_qa): Use a machine learning model to answer questions from the SQuAD dataset.
 - [Video Interpolation](https://tensorflow.org/hub/tutorials/tweening_conv3d): Predict what happened in a video between the first and the last frame.
 """
+
+
+
+NAME = "Akinsemoyin Adedoyin" 
+EMAIL = "Akinsemoyinadedoyin@gmail.com"
+SLACKID = "@Adedoyin" 
+BIOSTACK = "Genomics" 
+TWITTER  = "@Iyadvnni"
+
+def Hamming_distance(str1, str2):
+    i = 0
+    count = 0
+
+    while (i < len(str1)):
+        if (str1[i] != str2[i]):
+            count += 1
+        i += 1
+    return count
+
+str1 = SLACKID
+str2 = TWITTER 
+
+print(f"{NAME}, {EMAIL}, {SLACKID}, {BIOSTACK}, {TWITTER}, {Hamming_distance(str1, str2)}")

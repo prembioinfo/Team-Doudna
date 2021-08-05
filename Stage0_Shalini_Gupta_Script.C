@@ -17,11 +17,11 @@ void main()
     char slack[]="@Shalini";
     char biostack[]="Data analytics and Vaccine informatics";
     char twitter[]="@Shashaa";
-    printf("%s\n",name);
-    printf("%s\n",email);
-    printf("%s\n",slack);
-    printf("%s\n",biostack);
-    printf("%s\n",twitter);
-    printf("%d\n",hamdist(slack,twitter));
+    printf("%s,",name);
+    printf("%s,",email);
+    printf("%s,",slack);
+    printf("%s,",biostack);
+    printf("%s,",twitter);
+    printf("%d,",hamdist(slack,twitter));
     getch();
 }

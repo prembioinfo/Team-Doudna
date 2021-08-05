@@ -3,8 +3,6 @@ Email_id="shab31201@gmail.com";
 Slack_username="@Shabnam";
 Twitter_username="@Shabs3s";
 Biostack="Genomics";
-
-
 def hamming(string1,string2)
      str1=string1.downcase.split('')
      str2=string2.downcase.split('')

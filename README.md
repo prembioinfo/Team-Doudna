@@ -7,14 +7,14 @@
 
 ### Team information
 Task Status👇
- * 18 persons completed
+ * 19 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [x] 3. Lakshini - R
 - [x] 4. Morali - Python
 - [x] 5. Adedoyin - Python
 - [x] 6. Shalini - C++,C,GO
-- [ ] 7. Akanksha - C++
+- [x] 7. Akanksha - C++
 - [X] 8. Kartik - R
 - [x] 9. Shabnam - Ruby
 - [x] 10. Anjali - Python

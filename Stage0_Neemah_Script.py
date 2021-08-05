@@ -3,5 +3,18 @@ name: str = "Idowu Jinadu"
 email: str = "neemahjinadu@gmail.com"
 slack_username: str = "@Neemahj"
 biostack = "Drug Development"
-twitter_username: "@Neemahj"
-print ("{0}, {1}, {2}, {3}, {4}" .format (name, email, slack_username, biostack, twitter_username))
+twitter_username = "@Aramide"
+def hammingDist(str1, str2):
+   i = 0
+   count = 0
+   while(i < len(str1)):
+       if(str1[i] != str2[i]):
+           count += 1
+       i += 1
+   return count
+# Driver code
+str1 = "@Neemahj"
+str2 = "@Aramide"
+# function call
+print(hammingDist(str1, str2))
+print (name, email, slack_username, biostack, twitter_username, hammingDist (str1, str2))

@@ -18,4 +18,4 @@ str1 = SLACK_USERNAME
 str2 = Twitter_handle
 
 
-print(f"Name: {Name}, Email-ID: {Email}, Slack_username: {SLACK_USERNAME}, Biostack: {Biostack}, Twitter handle: {Twitter_handle}, Hamming_distance: {Hamming_distance(str1, str2)}")
+print(f"{Name}, {Email}, {SLACK_USERNAME}, {Biostack}, {Twitter_handle}, {Hamming_distance(str1, str2)}")

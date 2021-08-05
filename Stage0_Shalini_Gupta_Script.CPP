@@ -17,11 +17,11 @@ char Email_id[] = "shalinigupta0299@gmail.com";
 char Slack_Username[] = "@Shalini";
 char Biostack[] = "Data analytics and Vaccine informatics";
 char Twitter_Handle[] = "@Shashaa";
-cout<<Name<<"\n";
-cout<<Email_id<<"\n";
-cout<<Slack_Username<<"\n";
-cout<<Biostack<<"\n";
-cout<<Twitter_Handle<<"\n";
+cout<<Name<<",";
+cout<<Email_id<<",";
+cout<<Slack_Username<<",";
+cout<<Biostack<<",";
+cout<<Twitter_Handle<<",";
 cout<<hamdist(Slack_Username,Twitter_Handle);
 return 0;
 }

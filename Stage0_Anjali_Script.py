@@ -19,5 +19,4 @@ def hammingDist(str1, str2):
 str1 = slack
 str2 = twitter_handle
 
-
-print("Name: {}email: {}\tSlack: {}\tBiostack: {}\t Twitter: {}\t Hamming_distance: {}".format(name, email, slack, Biostack, twitter_handle, hammingDist(str1, str2)))
+print(f"{name}, {email}, {slack}, {Biostack}, {twitter_handle}, {hammingDist(str1, str2)}")

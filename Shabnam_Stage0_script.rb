@@ -1,11 +1,10 @@
-#Hackbio_Stage0_My_Details_
+#Hackbio_Stage0_My_Details
 
 Name="Shabnam S";
 Email_id="shab31201@gmail.com";
 Slack_username="@Shabnam";
 Twitter_username="@Shabs3s";
 Biostack="Genomics";
-puts "Name: #{Name}\nEmail id: #{Email_id}\nSlack Username: #{Slack_username}\nTwitter username: #{Twitter_username}\nBiostack: #{Biostack}";
 def hamming(string1,string2)
      str1=string1.downcase.split('')
      str2=string2.downcase.split('')
@@ -15,5 +14,7 @@ def hamming(string1,string2)
     end
     hamming_count
 end
-a=hamming("#{Slack_username}","#{Twitter_username}")
-puts "Hamming Distance = #{a}"
+Hamming_distance=hamming("#{Slack_username}","#{Twitter_username}")
+puts "#{Name}, #{Email_id}, #{Slack_username}, #{Twitter_username}, #{Biostack}, #{Hamming_distance}"
+
+#Program_using_Ruby

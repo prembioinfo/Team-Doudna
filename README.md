@@ -7,7 +7,7 @@
 
 ### Team information
 Task Status👇
- * 19 persons completed
+ * 20 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [x] 3. Lakshini - R
@@ -21,7 +21,7 @@ Task Status👇
 - [x] 11. Vivian - Perl
 - [x] 12. Jovel - Python
 - [x] 13. Devika- JAVA,GO
-- [ ] 14. Fatima - Python
+- [x] 14. Fatima - Python
 - [x] 15. Azeszat- JAVA
 - [x] 16. Fadekemi - Python
 - [x] 17. Adedamola - Python
@@ -56,6 +56,7 @@ Task Status👇
     * [x] Perl
     * [X] GO
     * [X] PHP
+
     * Any other that you know (please inform us on our channel)
 
 + Create your own repository on Github. You will use it to first upload your script to Github

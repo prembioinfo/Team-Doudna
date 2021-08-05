@@ -18,6 +18,5 @@ func main() {
         slack="@Shalini"
         biostack="Data analytics and vaccine informatics"
         twitter="@Shashaa")
-    fmt.Println("\n",name,"\n",email,"\n",slack,"\n",biostack,"\n",twitter)
-    fmt.Println(hamdist(slack,twitter))
+    fmt.Println(name,",",email,",",slack,",",biostack,",",twitter,",",hamdist(slack,twitter))
 }

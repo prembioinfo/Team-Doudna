@@ -5,6 +5,6 @@ def personal_details():
     email = "anjalinegi0602@gmail.com"
     slack = "@genesis"
     Biostack = "genomics"
-    print("Name: {}\nemail: {}\nslack: {}\nBiostack: {}".format(name, email, slack, Biostack))
+    print("Name: {}email: {}\tslack: {}\tBiostack: {}".format(name, email, slack, Biostack))
 
 personal_details()

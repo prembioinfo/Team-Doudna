@@ -20,7 +20,7 @@ def Hamming_distance(str1, str2):
 str1 = SLACKID
 str2 = TWITTER
 
-print(NAME , EMAIL, SLACKID , BIOSTACK , TWITTER , Hamming_distance(str1, str2))
+print(f"{NAME}, {EMAIL}, {SLACKID}, {BIOSTACK}, {TWITTER}, {Hamming_distance(str1, str2)}")
 # In[ ]:
 
 

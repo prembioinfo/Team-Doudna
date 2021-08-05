@@ -39,11 +39,6 @@ func Hamming(txt1, txt2 []byte) float64 {
 }
 
 func main() {
-	fmt.Println(Hamming([]byte("devika"), []byte("devpoo"))) 
-	fmt.Println("Name: Devika")
-	fmt.Println("Email: devikakaliana94@gmail.comm")
-	fmt.Println("Slack Username: Devika")
-	fmt.Println("Biostack: Genomics")
-	fmt.Println("Twitter Handel:DevPoo") 
+	fmt.Println("Devika Kaliana , devikakaliana94@gmail.comm, Devika, Genomics, DevPoo", Hamming([]byte("devika"), []byte("devpoo"))) 
 	
 }

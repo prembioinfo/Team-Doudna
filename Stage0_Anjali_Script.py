@@ -1,13 +1,12 @@
 "program to display basic details"
 
-def personal_details():
-    name = "Anjali"
-    email = "anjalinegi0602@gmail.com"
-    slack = "@genesis"
-    Biostack = "genomics"
-    twitter_handle = "@genesisanjie
+name = "Anjali"
+email = "anjalinegi0602@gmail.com"
+slack = "@genesis"
+Biostack = "genomics"
+twitter_handle = "@geneSic"
     
-    def hammingDist(str1, str2):
+def hammingDist(str1, str2):
     i = 0
     count = 0
  
@@ -21,6 +20,4 @@ str1 = slack
 str2 = twitter_handle
 
 
-print("Name: {}email: {}\tSlack: {}\tBiostack: {}\t Twitter:".format(name, email, slack, Biostack, twitter_handle))
-
-personal_details()
+print("Name: {}email: {}\tSlack: {}\tBiostack: {}\t Twitter: {}\t Hamming_distance: {}".format(name, email, slack, Biostack, twitter_handle, hammingDist(str1, str2)))

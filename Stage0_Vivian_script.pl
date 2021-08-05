@@ -8,22 +8,17 @@ my $slack = 'vivianschu';
 my $biostack = 'Genomics';
 my $twitter = 'vivianschu';
 
-sub hd {
-        my ($k, $l) = @_;
-        my $diff = $k ^ $l;
-        my $num_mismatch = $diff =~ tr/\0//c;
-        print $diff
+sub hammingdist {
+        my ($j, $k) = @_;
+        my $difference = $j ^ $k;
+        my $mismatch = $difference =~ tr/\0//c;
+        print $difference
 }
 
-my $hamming_distance = hd($slack,$twitter);
+my $hamming_distance = hammingdist($slack,$twitter);
 
 my $info = <<"END";
-Name: $name
-Email ID: $email
-Slack Username: $slack
-Biostack: $biostack
-Twitter: \@$twitter
-Hamming Distance: $hamming_distance
+$name, $email, \@$slack, $biostack, \@$twitter, $hamming_distance
 END
 
 print $info

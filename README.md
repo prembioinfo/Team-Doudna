@@ -22,13 +22,12 @@ Task Status👇
 - [x] 12. Jovel - Python
 - [x] 13. Devika- JAVA,GO
 - [ ] 14. Fatima - Python
-- [ ] 15.  Xiao- JAVA
-- [x] 16. Azeszat- JAVA
-- [x] 17. Fadekemi - Python
-- [x] 18. Adedamola - Python
-- [x] 19. Neemah - Python
-- [x] 20. Blessing - Python
-- [x] 21. Darmolarr- R
+- [x] 15. Azeszat- JAVA
+- [x] 16. Fadekemi - Python
+- [x] 17. Adedamola - Python
+- [x] 18. Neemah - Python
+- [x] 19. Blessing - Python
+- [x] 20. Darmolarr- R
 
 (Will be updated soon once we get full info about team members)
 

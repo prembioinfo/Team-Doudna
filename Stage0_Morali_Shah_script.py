@@ -4,10 +4,10 @@
 # In[7]:
 
 
-Name = "Morali Shah",
-email = "shahmorali@gmail.com",
-slackname = "@morali",
-biostack = "Drug Development",
+Name = "Morali Shah"
+email = "shahmorali@gmail.com"
+slackname = "@morali"
+biostack = "Drug Development"
 twitter = "@monica"
 
 

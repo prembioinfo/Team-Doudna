@@ -20,12 +20,8 @@ public static void main (String[] args)
     String TH = "@Devpoo";
  
     
-    System.out.println("HammingDist:"+ hammingDist (SU, TH));
-    System.out.println("Name = Devika Kaliana");
-    System.out.println("Email = devikakaliana94@gmail.com");
-    System.out.println("slack username = @Devika");
-    System.out.println("Biostack = Gemonics");
-    System.out.println("Twitter Handel = @Devpoo");
+    System.out.println("Devika Kaliana, devikakaliana94@gmail.com,@Devika, Gemonics, @Devpoo, "+ hammingDist (SU, TH));
+    
 }
 }
               

@@ -29,6 +29,9 @@ str2 = "morali"
 print(hammingDist(str1, str2))
 
 
+print(f"{List}, {hammingDist(str1, str2)}")
+
+
 # In[ ]:
 
 

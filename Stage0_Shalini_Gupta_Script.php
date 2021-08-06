@@ -1,13 +1,14 @@
 <?php
 function hamdist($slack,$twitter)
 {
-	$i=0;
 	$count=0;
-	for($i=0;$slack[$i]!='';$i++)
-	{
-		if($slack[$i]!=$twitter[$i])
-		$count+=1;
-	}
+	$i=0;
+	while (isset($slack[$i]) != '')
+    {
+        if ($slack[$i] != $twitter[$i])
+            $count++;
+        $i++;
+    }
 	return $count;
 }
 $name = "Shalini";

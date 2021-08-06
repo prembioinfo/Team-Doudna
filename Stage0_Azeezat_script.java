@@ -1,5 +1,5 @@
 import java.util.*;
-public class Azeezat_stage0_script
+public class Stage0_Azeezat_script
 {
          static int hammingDist(String SU, String TH)
 {

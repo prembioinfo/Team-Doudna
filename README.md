@@ -20,14 +20,14 @@ Let’s unravel science together so please feel free to contact us if science is
 
 ### Team information
 Task Status👇
- * 14 persons completed
+ * 15 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [x] 3. Lakshini - R
 - [x] 4. Morali - Python
 - [x] 5. Adedoyin - Python
 - [x] 6. Shalini - PHP
-- [ ] 7. Akanksha - Bash
+- [x] 7. Akanksha - Bash
 - [ ] 8. Kartik - R
 - [x] 9. Shabnam - Ruby
 - [x] 10. Anjali - Python

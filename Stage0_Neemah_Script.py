@@ -16,5 +16,4 @@ def hammingDist(str1, str2):
 str1 = "@Neemahj"
 str2 = "@Aramide"
 # function call
-print(hammingDist(str1, str2))
 print (name, email, slack_username, biostack, twitter_username, hammingDist (str1, str2))

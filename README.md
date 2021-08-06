@@ -70,7 +70,7 @@ Task Status👇
     * [x] R
     * [x] Perl
     * [X] PHP
-    * [ ] Bash
+    * [x] Bash
 
     * Any other that you know (please inform us on our channel)
 

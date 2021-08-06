@@ -117,7 +117,10 @@ Jovel | Python | `Stage_0_Jovel_script.py` | sudo apt install python3.8 |
 Devika | JAVA | `Stage0_DEVIKA_script.java` | sudo apt-get install default-jdk |
 Fatima | Python | `stage0_Fatima_script.py` | sudo apt install python3.8 |
 Fadekemi | Python | `Stage0_Fadekemi_script.py`| sudo apt install python3.8 |
+Kartik  | R | `Stage0_Kartik_Sawant_script.R`| sudo apt install r-base |
 Adedamola | Python | `Stage0_Adedamola_script.py`| sudo apt install python3.8 |
+Salami Habeeb | R | `stage0_Darmolarr_script.R`| sudo apt install r-base |
+Idowu Jinadu | Python | `Stage0_Neemah_Script.py`| sudo apt install python3.8 |
 
 # Workflow
 ![alt text](https://github.com/prembioinfo/Team-Doudna/blob/0fd1dfb9d99f67667718511c3bd8b446ad97bef6/Workflow.png)

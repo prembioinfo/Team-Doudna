@@ -83,12 +83,7 @@ Task Status👇
 
 ###### Output Template (Your script output should be something like this)
 ```
-NAME: *Your full name*
-E-MAIL: *Your e-mail* 
-SLACK USERNAME: @+*username*
-BIOSTACK: *Name of biostack you chose. The only first letter is capital* 
-TWITTER HANDLE:@*username*
-HAMMING DISTANCE: *Hamming distance between SLACK USERNAME and TWITTER HANDLE, output would be obtained as a numeric value*
+*Your full name*, *Your e-mail*, @*username*, *Name of biostack you chose*, @*username*, *Hamming distance between SLACK USERNAME and TWITTER HANDLE*
 ```
 ***After you get the desired output, please name your file yourname_stage_0_script.py/R/sh etc;
 An example: Stage0_Premnath_script.py***

@@ -14,7 +14,7 @@ slack_username= '@Blessing'
 biostack= 'Genomics'
 twitter_handle= '@Olabosoye_BP'
 ham = hamming_dist (slack_username, twitter_handle)
-print('Name- %s,Email- %s,Slack Username- %s,Biostack- %s,Twitter Handle- %s,Hamming Distance- %i' %(name, email, slack_username, biostack, twitter_handle, ham))
+print(name+","+email+","+slack_username+","+biostack+","+twitter_handle,",",ham)
 
 
 

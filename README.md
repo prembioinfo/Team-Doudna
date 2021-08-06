@@ -23,7 +23,7 @@ Please feel free to contact us if science is your discipline too. Let’s unrave
 
 ### Team information
 Task Status👇
- * 16 persons completed
+ * 17 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [x] 3. Lakshini - R
@@ -43,7 +43,7 @@ Task Status👇
 - [x] 17. Adedamola - Python
 - [ ] 18. Neemah - Python
 - [ ] 19. Blessing - Python
-- [ ] 20. Darmolarr- R
+- [x] 20. Darmolarr- R
 
 
 (Will be updated soon once we get full info about team members)

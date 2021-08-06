@@ -31,7 +31,7 @@ Task Status👇
 - [x] 5. Adedoyin - Python
 - [x] 6. Shalini - PHP
 - [x] 7. Akanksha - Bash
-- [ ] 8. Kartik - R
+- [x] 8. Kartik - R
 - [x] 9. Shabnam - Ruby
 - [x] 10. Anjali - Python
 - [x] 11. Vivian - Perl

@@ -1,5 +1,5 @@
-#include<iostream>
-#include<curses.h>
+#include<iostream.h>
+#include<conio.h>
 int hamdist(char* str1, char* str2)
 {
 int i=0, count=0;
@@ -12,7 +12,7 @@ return count;
 }
 void main()
 {
-curscr();
+clrscr();
 char* Name="Akanksha";
 char* Email_id="gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in";
 char* Slack_Username="@Akanksha";

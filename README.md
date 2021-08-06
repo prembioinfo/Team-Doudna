@@ -50,12 +50,10 @@ Task Status👇
     * [x] Python 
     * [x] Java
     * [x] Ruby
-    * [x] C
     * [x] R
-    * [x] C++
     * [x] Perl
-    * [X] GO
     * [X] PHP
+    * [ ] Bash
 
     * Any other that you know (please inform us on our channel)
 

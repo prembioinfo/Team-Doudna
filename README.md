@@ -72,6 +72,8 @@ NAME: *Your full name*
 E-MAIL: *Your e-mail* 
 SLACK USERNAME: @+*username*
 BIOSTACK: *Name of biostack you chose. The only first letter is capital* 
+TWITTER HANDLE:@*username*
+HAMMING DISTANCE: *Hamming distance between SLACK USERNAME and TWITTER HANDLE, output would be obtained as a numeric value*
 ```
 ***After you get the desired output, please name your file yourname_stage_0_script.py/R/sh etc;
 An example: Premnath_stage0_script.py***

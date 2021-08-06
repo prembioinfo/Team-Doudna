@@ -1,5 +1,5 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
+#include<conio>
 int hamdist(char* str1, char* str2)
 {
 int i=0, count=0;

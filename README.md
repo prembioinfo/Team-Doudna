@@ -122,7 +122,7 @@ Adedamola | Python | `Stage0_Adedamola_script.py`| sudo apt install python3.8 |
 Salami Habeeb | R | `stage0_Darmolarr_script.R`| sudo apt install r-base |
 Idowu Jinadu | Python | `Stage0_Neemah_Script.py`| sudo apt install python3.8 |
 Blessing    | Python |  `Stage0_Blessing_Script.py` | sudo apt install python3.8 |
-Blessing    | Python |  `Stage0_Azeezat.script.py` | sudo apt install python3.8 |
+Azeezat   | Python |  `Stage0_Azeezat.script.py` | sudo apt install python3.8 |
 
 # Workflow
 ![alt text](https://github.com/prembioinfo/Team-Doudna/blob/0fd1dfb9d99f67667718511c3bd8b446ad97bef6/Workflow.png)

@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-NAME = "Isha Barve"
-EMAIL = "isha.barve0@gmail.com"
-SLACKID = "@Isha"
-BIOSTACK = "Drug Development"
-TWITTER = "@Isba"
+NAME , EMAIL , SLACKID , BIOSTACK , TWITTER = "Isha Barve" , "isha.barve0@gmail.com", "@Isha", "Drug Development", "@Isba"
 
 def Hamming_distance(str1, str2):
     i = 0
@@ -21,6 +17,7 @@ str1 = SLACKID
 str2 = TWITTER
 
 print(f"{NAME}, {EMAIL}, {SLACKID}, {BIOSTACK}, {TWITTER}, {Hamming_distance(str1, str2)}")
+
 # In[ ]:
 
 

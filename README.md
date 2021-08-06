@@ -94,6 +94,9 @@ An example: Stage0_Premnath_script.py***
 + Ubuntu
 + Jupyter notebook
 + Google Account
++ R studio
++ PyCharm
++ Windows power Shell
 
 
 # Workflow

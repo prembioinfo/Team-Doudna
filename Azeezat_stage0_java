@@ -21,6 +21,6 @@ public class Main
         
       
         
-        System.out.printf("Azeezat Osikoya,oluwatobiosikoya1@gmail.com,@azeezat02, Drug Development,@Azeezat,%d",hmd(s,t)); 
+        System.out.printf("Azeezat Osikoya,oluwatobiosikoya1@gmail.com,@azeeza2, Drug Development,@Azeezat,%d",hmd(s,t)); 
     }
 }

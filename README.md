@@ -19,7 +19,7 @@ Please feel free to contact us if science is your discipline too. Let’s unrave
 
 
 ### CONTACT US
-+Email : teamdoudna@gmail.com
++ Email : teamdoudna@gmail.com
 
 ### Team information
 Task Status👇

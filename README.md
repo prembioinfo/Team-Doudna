@@ -97,6 +97,8 @@ An example: Stage0_Premnath_script.py***
 + R studio
 + PyCharm
 + Windows power Shell
++ Google Colab
++ OnlineGDB online compiler (https://www.onlinegdb.com/)
 
 # Packages Used
  Name | Language | Script | Installation(Commands in Linux console/WSL)

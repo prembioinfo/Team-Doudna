@@ -17,6 +17,6 @@ def hamming(string1,string2)
 end
 
 Hamming_distance=hamming("#{Slack_username}","#{Twitter_username}")
-puts "#{Name}, #{Email_id}, #{Slack_username}, #{Twitter_username}, #{Biostack}, #{Hamming_distance}"
+puts "#{Name}, #{Email_id}, #{Slack_username}, #{Biostack}, #{Twitter_username}, #{Hamming_distance}"
 
 #Program_using_ruby

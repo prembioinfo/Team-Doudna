@@ -45,7 +45,7 @@ Task Status👇
     * software development
     * science communication 
 
-+  Individuals should write a script (using any language) that prints your name, your email, your slack username (with @) and your biostack  
++  Individuals should write a script (using any language) that prints your name, your email, your slack ID (with @) , your biostack, Twitter ID and Hamming distance(Between Slack ID and Twitter ID)
   * Note that we have to have at least 7 different languages. IMPORTANT: Inform the version of the program. Follow below to find yours:
     * [x] Python 
     * [x] Java

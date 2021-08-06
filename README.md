@@ -77,6 +77,6 @@ BIOSTACK: *Name of biostack you chose. The only first letter is capital*
 An example: Premnath_stage0_script.py***
 
 # Workflow
-![alt text](https://github.com/Shab-ss/Team-Doudna/blob/main/WORKFLOW.PNG)
+![alt text](https://github.com/prembioinfo/Team-Doudna/blob/0fd1dfb9d99f67667718511c3bd8b446ad97bef6/Workflow.png)
 
 If you guys have any doubts, drop your queries in our group channel!😁

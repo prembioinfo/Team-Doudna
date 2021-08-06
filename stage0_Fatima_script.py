@@ -15,5 +15,5 @@ def hamming_distance(str1, str2):
          count += 1
     return count
 
-print(Name + ',', Email + ',', Slack_handle + ',', Biostack + ',', Twitter_handle + ',', hamming_distance(str1, str2))
+print(Name, Email, Slack_handle, Biostack, Twitter_handle, hamming_distance(str1, str2), sep=",")
 

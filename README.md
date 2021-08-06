@@ -15,6 +15,8 @@ We are Team Doudna! ☺
 Our team consists of 20 brilliant young and curious minds constantly looking for scientific solutions for today’s global issues.
 Let’s unravel science together so please feel free to contact us if science is your discipline too.
 
+![alt text](https://github.com/prembioinfo/Team-Doudna/blob/6139676b0e6878be9fa3f0576055df47c7a388e8/2GU.gif)
+
 
 ### Team information
 Task Status👇

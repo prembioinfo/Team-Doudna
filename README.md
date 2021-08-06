@@ -106,13 +106,13 @@ Premnath | Python | `Stage0_Premnath_script.py` | sudo apt install python3.8 |
 Lakshini | R | `stage0_Lakshini_Kannan_script.R` | sudo apt install r-base |
 Morali | Python | `Stage0_Morali_Shah_script.py` | sudo apt install python3.8 |
 Adedoyin | Python | `Stage0_Adedoyin_Script.py` | sudo apt install python3.8 |
-Shalini | PHP | `STAGE0_SHALINI_GUPTA_SCRIPT.php` | php - sudo apt install php-fpm |
+Shalini | PHP | `STAGE0_SHALINI_GUPTA_SCRIPT.php` | sudo apt install php-fpm |
 Akanksha | Bash | `Stage0_akanksha_script.sh` | Nil |
 Shabnam | Ruby | `Stage0_Shabnam_script.rb` | sudo apt install ruby |
 Anjali  | Python | `Stage0_Anjali_Script.py` | sudo apt install python3.8 |
 Vivian | Perl | `Stage0_Vivian_script.pl` | sudo apt-get install perl |
 Jovel | Python | `Stage_0_Jovel_script.py` | sudo apt install python3.8 |
-Devika | JAVA | `Stage0_DEVIKA_script.java` | Java - apt-get install default-jdk |
+Devika | JAVA | `Stage0_DEVIKA_script.java` | Sudo apt-get install default-jdk |
 Fatima | Python | `stage0_Fatima_script.py` | sudo apt install python3.8 |
 Fadekemi | Python | `Stage0_Fadekemi_script.py`| sudo apt install python3.8 |
 Adedamola | Python | `Stage0_Adedamola_script.py`| sudo apt install python3.8 |

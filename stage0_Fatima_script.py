@@ -14,6 +14,6 @@ def hamming_distance(str1, str2):
         if str1[i] != str2[i]:
          count += 1
     return count
-print(hamming_distance(str1 , str2))
-print(Name, Email, Slack_handle, Biostack, Twitter_handle, hamming_distance(str1, str2))
+
+print(Name + ',', Email + ',', Slack_handle + ',', Biostack + ',', Twitter_handle + ',', hamming_distance(str1, str2))
 

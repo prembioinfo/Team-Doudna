@@ -1,10 +1,20 @@
-# Team Doudna 😎
+# TEAM DOUDNA 😎
+
 >*Be like stem cells, differentiate yourself from other*              
-### About the Internship   
+### About the Internship 
 ![alt text](https://github.com/prembioinfo/Team-Doudna/blob/82006bc48c0849840a64f307b4b118a460492c5e/1.jpg)
 **HackBio** is a virtually regimented research internship that is practice oriented and focused on equipping scientists with advanced bioinformatics and computational biology skills, by the end of the internship, successful interns should have:
 + Honed their skills in a specific bioinformatics method
 + Have at least a peer-reviewed article to show for the internship experience.
+
+### About us 
+>*“The more we know, the more we realize there is to know."
+   -Jennifer Doudna*
+   
+We are Team Doudna! ☺ 
+Our team consists of 20 brilliant young and curious minds constantly looking for scientific solutions for today’s global issues.
+Let’s unravel science together so please feel free to contact us if science is your discipline too.
+
 
 ### Team information
 Task Status👇
@@ -29,6 +39,7 @@ Task Status👇
 - [ ] 18. Neemah - Python
 - [ ] 19. Blessing - Python
 - [ ] 20. Darmolarr- R
+
 
 (Will be updated soon once we get full info about team members)
 

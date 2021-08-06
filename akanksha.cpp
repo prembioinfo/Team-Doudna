@@ -12,7 +12,7 @@ return count;
 }
 void main()
 {
-clrscr();
+curscr();
 char* Name="Akanksha";
 char* Email_id="gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in";
 char* Slack_Username="@Akanksha";

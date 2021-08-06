@@ -26,8 +26,6 @@ def hammingDist(str1, str2):
 str1 = slackname
 str2 = twitter
 
-print(hammingDist(str1, str2))
-
 
 # In[9]:
 

@@ -4,7 +4,7 @@ email="gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in"
 slackid="@Akanksha"
 biostack="Drug Development"
 twitter="@Avynksha"
-main() {
+main(){
 	
 
         

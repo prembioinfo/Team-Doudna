@@ -1,6 +1,7 @@
 # Team Doudna 😎
 >*Be like stem cells, differentiate yourself from other*              
 ### About the Internship   
+![alt text](https://github.com/prembioinfo/Team-Doudna/blob/82006bc48c0849840a64f307b4b118a460492c5e/1.jpg)
 **HackBio** is a virtually regimented research internship that is practice oriented and focused on equipping scientists with advanced bioinformatics and computational biology skills, by the end of the internship, successful interns should have:
 + Honed their skills in a specific bioinformatics method
 + Have at least a peer-reviewed article to show for the internship experience.

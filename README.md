@@ -37,14 +37,14 @@ Task Status👇
 + Update your slack workspace tag to [0] and put in your biostack
 +  Go to your profile and update your status. Also under "Edit profile" in "What I do" row put your biostack
  * note there are 8 biostacks that define your area of specialization: 
-    * genomics
+    * Genomics
     * Drug development
-    * vaccine informatics
-    * medicinal chemistry
-    * cheminformatics
-    * data analytics
-    * software development
-    * science communication 
+    * Vaccine informatics
+    * Medicinal chemistry
+    * Cheminformatics
+    * Data analytics
+    * Software development
+    * Science communication 
 
 +  Individuals should write a script (using any language) that prints your name, your email, your slack ID (with @) , your biostack, Twitter ID and Hamming distance(Between Slack ID and Twitter ID)
   * Note that we have to have at least 7 different languages. IMPORTANT: Inform the version of the program. Follow below to find yours:
@@ -75,7 +75,7 @@ TWITTER HANDLE:@*username*
 HAMMING DISTANCE: *Hamming distance between SLACK USERNAME and TWITTER HANDLE, output would be obtained as a numeric value*
 ```
 ***After you get the desired output, please name your file yourname_stage_0_script.py/R/sh etc;
-An example: Premnath_stage0_script.py***
+An example: Stage0_Premnath_script.py***
 
 # Workflow
 ![alt text](https://github.com/prembioinfo/Team-Doudna/blob/0fd1dfb9d99f67667718511c3bd8b446ad97bef6/Workflow.png)

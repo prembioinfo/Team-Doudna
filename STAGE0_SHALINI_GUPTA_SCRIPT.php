@@ -16,6 +16,6 @@ $email = "shalinigupta0299@gmail.com";
 $slack = "@Shalini";
 $biostack = "Data analytics and Vaccine informatics";
 $twitter = "@Shashaa";
-echo $name," ",$email," ",$slack," ",$biostack," ",$twitter," ";
+echo $name,",",$email,",",$slack,",",$biostack,",",$twitter,",";
 echo hamdist($slack,$twitter);
 ?>

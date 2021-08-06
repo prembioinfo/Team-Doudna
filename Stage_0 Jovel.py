@@ -14,4 +14,4 @@ def Hamming_distance(str1, str2):
     return count
 str1 = Slack_username
 str2 = Twitter_handle
-print(f"Name: {Name}\n Email: {Email}\n Slack_username: {Slack_username}\n Biostack: {Biostack}\n Twitter_handle : {Twitter_handle }\n Hamming_distance: {Hamming_distance(str1, str2)}")
+print(f"{Name}, {Email}, {Slack_username}, {Biostack}, {Twitter_handle }, {Hamming_distance(str1, str2)}")

@@ -23,7 +23,7 @@ Please feel free to contact us if science is your discipline too. Let’s unrave
 
 ### Team information
 Task Status👇
- * 18 persons completed
+ * 20 persons completed
 - [x] 1. Isha *Team leader* - Python
 - [x] 2. Premnath - Python
 - [x] 3. Lakshini - R
@@ -38,11 +38,11 @@ Task Status👇
 - [x] 12. Jovel - Python
 - [x] 13. Devika- JAVA
 - [x] 14. Fatima - Python
-- [ ] 15. Azeezat- JAVA
+- [x] 15. Azeezat- Python
 - [x] 16. Fadekemi - Python
 - [x] 17. Adedamola - Python
 - [x] 18. Neemah - Python
-- [ ] 19. Blessing - Python
+- [x] 19. Blessing - Python
 - [x] 20. Darmolarr- R
 
 
@@ -121,6 +121,8 @@ Kartik  | R | `Stage0_Kartik_Sawant_script.R`| sudo apt install r-base |
 Adedamola | Python | `Stage0_Adedamola_script.py`| sudo apt install python3.8 |
 Salami Habeeb | R | `stage0_Darmolarr_script.R`| sudo apt install r-base |
 Idowu Jinadu | Python | `Stage0_Neemah_Script.py`| sudo apt install python3.8 |
+Blessing    | Python |  `Stage0_Blessing_Script.py` | sudo apt install python3.8 |
+Blessing    | Python |  `Stage0_Azeezat.script.py` | sudo apt install python3.8 |
 
 # Workflow
 ![alt text](https://github.com/prembioinfo/Team-Doudna/blob/0fd1dfb9d99f67667718511c3bd8b446ad97bef6/Workflow.png)
